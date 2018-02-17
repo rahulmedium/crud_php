@@ -1,7 +1,7 @@
 <?php
 
 /*
- * @Author Rory Standley <rorystandley@gmail.com>
+ * @Author rahul>rk1448@gmail.com
  * @Version 1.0
  * @Package Database
  */
